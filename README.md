@@ -1,12 +1,14 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name: School Library App
+# Project Name: School Library Application
 
-> Description of the project: Imagine that you are the librarian of OOP University, and you need a tool to record what books are in the library and who borrows them. This app implements object-oriented programming and allows you to add new students or teachers, add new books, save records of who borrrowed a given book and when. All this is built in a beautiful and well-organized way. 
+> Description of the project: In this project, you will start building my school library app. In this initial step, I will implement the classes to represent students and teachers.
 
 ## Built With
-- Languages: Ruby
-- Models/Frameworks: OOP
+- Languages: 
+* Ruby
+- Models/Frameworks: 
+* OOP
 
 ## Getting started
 To get a local copy of this exercice, Please follow these simple example steps.
@@ -14,7 +16,7 @@ To get a local copy of this exercice, Please follow these simple example steps.
 #### 1. Clone this repository or download the Zip folder:"
 
 ```bash command
-$ git clone https://github.com/TracK92/school-library-app.git
+$ git clone https://github.com/chimwemwe007/School_Library_OOP
 ```
 #### 2. Navigate to the location of the folder in your machine:
 ```bash command
@@ -24,10 +26,10 @@ you@your-Pc-name:~$ cd <folder>
 
 ## Authors
 
-👤 **Tracey Kadenyi**
+👤 **Chimwemwe Mkandawire**
 
-- GitHub: [@TracK92](https://github.com/TracK92)
-- LinkedIn: [Tracey Kadenyi](https://www.linkedin.com/in/tracey-kadenyi/)
+- GitHub: [@TracK92](https://github.com/chimwemwe007)
+- LinkedIn: [Tracey Kadenyi](https://www.linkedin.com/in/chimwemwe007/)
 
 ## 🤝 Contributing
 
