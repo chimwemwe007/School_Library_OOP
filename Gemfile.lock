@@ -7,7 +7,7 @@ GEM
     parser (3.1.2.1)
       ast (~> 2.4.1)
     rainbow (3.1.1)
-    regexp_parser (2.6.0)
+    regexp_parser (2.5.0)
     rexml (3.2.5)
     rubocop (1.36.0)
       json (~> 2.3)
@@ -25,10 +25,10 @@ GEM
     unicode-display_width (2.3.0)
 
 PLATFORMS
-  x64-mingw-ucrt
+  x86_64-linux
 
 DEPENDENCIES
   rubocop (>= 1.0, < 2.0)
 
 BUNDLED WITH
-   2.3.7
+   2.2.15
