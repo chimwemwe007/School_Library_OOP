@@ -1,11 +1,11 @@
 AllCops:
-  NewCops: enable
+  NewCops: disable
   Exclude:
     - "Guardfile"
     - "Rakefile"
     - "node_modules/**/*"
 
-  DisplayCopNames: true
+  DisplayCopNames: false
 
 Layout/LineLength:
   Max: 120
