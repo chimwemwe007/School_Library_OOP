@@ -1,35 +1,31 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+# curriculum-databases-projects-template
 
-# Project Name: School Library Application
+> This template should be used for database related projects at Microverse.
+> Generate your own repository, update this README and edit all files content while working on projects. You should not be adding any new files unless asked otherwise.
 
-> Description of the project: In this project, you will start building my school library app. In this initial step, I will implement the classes to represent students and teachers.
 
-## Built With
-- Languages: 
-* Ruby
-- Models/Frameworks: 
-* OOP
+## Getting Started
 
-## Getting started
-To get a local copy of this exercice, Please follow these simple example steps.
+This repository includes files with plain SQL that can be used to recreate a database:
 
-#### 1. Clone this repository or download the Zip folder:"
+- Use [schema.sql](./schema.sql) to create all tables.
+- Use [data.sql](./data.sql) to populate tables with sample data.
+- Check [queries.sql](./queries.sql) for examples of queries that can be run on a newly created database. **Important note: this file might include queries that make changes in the database (e.g., remove records). Use them responsibly!**
 
-```bash command
-$ git clone https://github.com/chimwemwe007/School_Library_OOP
-```
-#### 2. Navigate to the location of the folder in your machine:
-```bash command
-you@your-Pc-name:~$ cd <folder>
-```
-#### 3. Press Enter to navigate to your local clone.
 
 ## Authors
 
-👤 **Chimwemwe Mkandawire**
+👤 **Author1**
 
-- GitHub: [@TracK92](https://github.com/chimwemwe007)
-- LinkedIn: [Tracey Kadenyi](https://www.linkedin.com/in/chimwemwe007/)
+- GitHub: [@githubhandle](https://github.com/githubhandle)
+- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+
+👤 **Author2**
+
+- GitHub: [@githubhandle](https://github.com/githubhandle)
+- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 ## 🤝 Contributing
 
@@ -41,6 +37,11 @@ Feel free to check the [issues page](../../issues/).
 
 Give a ⭐️ if you like this project!
 
+## Acknowledgments
+
+- Hat tip to anyone whose code was used
+- Inspiration
+- etc
 
 ## 📝 License
 
