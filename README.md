@@ -1,5 +1,5 @@
 # oop_school_library_ruby
-A project made in order to get more familiar with OOP by building a school library app using Ruby. Classes are implemented to represent parents, students and teachers.
+This is an OOP Practice project TO build a school library app. Classes are implemented to represent parents, students and teachers.
 
 ## Getting Started
 
@@ -22,7 +22,7 @@ to see the list of branches:
 #### :bust_in_silhouette: Chimwemwe Mkandawire
 
 - [Github](https://github.com/chimwemwe007)
-- [LinkedIn](https://www.linkedin.com/in/chimwemwe007/)  
+- [LinkedIn](https://www.linkedin.com/in/chimwemwe-mkandawire/)  
 - [Twitter](https://twitter.com/chxmz) 
 
 ## 🤝 Contributing
