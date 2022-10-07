@@ -1,14 +1,11 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name: School Library Application
+# Project Name: School Library App
 
-> Description of the project: In this project, you will start building my school library app. In this initial step, I will implement the classes to represent students and teachers.
-
+> Description of the project: In this project, i will start building my school library app. In this step, I will implement class decorators.
 ## Built With
-- Languages: 
-* Ruby
-- Models/Frameworks: 
-* OOP
+- Languages: Ruby
+- Models/Frameworks: OOP
 
 ## Getting started
 To get a local copy of this exercice, Please follow these simple example steps.
