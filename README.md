@@ -1,32 +1,29 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+# oop_school_library_ruby
+A project made in order to get more familiar with OOP by building a school library app using Ruby. Classes are implemented to represent parents, students and teachers.
 
-# Project Name: School Library App
+## Getting Started
 
-> Description of the project: In this project, i will start building my school library app. In this step, I will implement class decorators.
-## Built With
-- Languages: Ruby
-- Models/Frameworks: OOP
+For a complete list of ways to install Ruby, including using third-party tools
+like rvm, see:
 
-## Getting started
-To get a local copy of this exercice, Please follow these simple example steps.
+https://www.ruby-lang.org/en/downloads/
 
-#### 1. Clone this repository or download the Zip folder:"
+The mirror of the Ruby source tree can be checked out with the following command:
 
-```bash command
-$ git clone https://github.com/chimwemwe007/School_Library_OOP
-```
-#### 2. Navigate to the location of the folder in your machine:
-```bash command
-you@your-Pc-name:~$ cd <folder>
-```
-#### 3. Press Enter to navigate to your local clone.
+    $ git clone https://github.com/ruby/ruby.git
+
+There are some other branches under development. Try the following command
+to see the list of branches:
+
+    $ git ls-remote https://github.com/ruby/ruby.git
 
 ## Authors
 
-👤 **Chimwemwe Mkandawire**
+#### :bust_in_silhouette: Chimwemwe Mkandawire
 
-- GitHub: [@Chimwemwe007](https://github.com/chimwemwe007)
-- LinkedIn: [Chimwemwe-mkandawire](https://www.linkedin.com/in/chimwemwe-mkandawire/)
+- [Github](https://github.com/chimwemwe007)
+- [LinkedIn](https://www.linkedin.com/in/chimwemwe007/)  
+- [Twitter](https://twitter.com/chxmz) 
 
 ## 🤝 Contributing
 
@@ -38,7 +35,7 @@ Feel free to check the [issues page](../../issues/).
 
 Give a ⭐️ if you like this project!
 
+## Acknowledgments
 
-## 📝 License
+- Microverse
 
-This project is [MIT](./MIT.md) licensed.
