@@ -26,7 +26,7 @@ you@your-Pc-name:~$ cd <folder>
 👤 **Chimwemwe Mkandawire**
 
 - GitHub: [@Chimwemwe007](https://github.com/chimwemwe007)
-- LinkedIn: [Chimwemwe-mkandawire](https://www.linkedin.com/in/[Chimwemwe-mkandawire/)
+- LinkedIn: [Chimwemwe-mkandawire](https://www.linkedin.com/in/chimwemwe-mkandawire/)
 
 ## 🤝 Contributing
 
