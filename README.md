@@ -23,7 +23,7 @@ you@your-Pc-name:~$ cd <folder>
 
 ## Authors
 
-👤 **Tracey Kadenyi**
+👤 **Chimwemwe Mkandawire**
 
 - GitHub: [@TracK92](https://github.com/chimwemwe007)
 - LinkedIn: [Tracey Kadenyi](https://www.linkedin.com/in/chimwemwe-mkandawire/)
