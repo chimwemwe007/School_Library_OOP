@@ -7,7 +7,7 @@ class Rental
     @person = person
     @book = book
     book.rentals_list.push(self)
-    person.rentals_list.push(self)
+    person.rentals.push(self)
   end
 
   def add_book(book)
